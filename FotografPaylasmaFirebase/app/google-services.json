@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717590477283",
+    "project_id": "fotografpaylasma-168d6",
+    "storage_bucket": "fotografpaylasma-168d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717590477283:android:323d723222168b399108d6",
+        "android_client_info": {
+          "package_name": "com.isikkaya.fotografpaylasmafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxwxUWjzeZf1bmtPrpJMbH_CEL2m6cS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
